@@ -1,4 +1,4 @@
-package com.shahi.potly
+package com.shahi.selector
 
 import org.junit.Test
 

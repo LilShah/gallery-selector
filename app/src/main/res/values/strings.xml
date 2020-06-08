@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Potly</string>
+    <string name="app_name">Gallery Selector</string>
 
     <string name="title_activity_image_viewer">ImageViewerActivity</string>
     <string name="dummy_button">Dummy Button</string>

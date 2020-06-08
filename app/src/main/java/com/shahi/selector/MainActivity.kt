@@ -1,4 +1,4 @@
-package com.shahi.potly
+package com.shahi.selector
 
 import android.Manifest
 import android.app.Activity
@@ -24,6 +24,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        val actionBar = supportActionBar
+        actionBar!!.title = "Gallery Selector"
 
         //camera button onclick
         capture_btn.setOnClickListener {

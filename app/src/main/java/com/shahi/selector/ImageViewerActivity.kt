@@ -1,4 +1,4 @@
-package com.shahi.potly
+package com.shahi.selector
 
 import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
